@@ -35,7 +35,7 @@ load_dotenv()
 # 환경 변수 설정
 os.environ["OPENAI_API_KEY"] = os.getenv("OPEN_API_KEY")
 
-loader = PyPDFLoader('train2.pdf')
+loader = PyPDFLoader('train.pdf')
 documents = loader.load()
 
 text_splitter = CharacterTextSplitter(chunk_size=1000, chunk_overlap=0)
