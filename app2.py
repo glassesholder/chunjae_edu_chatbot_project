@@ -3,7 +3,7 @@
 #     role VARCHAR(50),
 #     content TEXT
 # );
-# 사전에 만들어 놓는 것을 추천, study.py 참고
+# 사전에 만들어 놓는 것을 추천, study.py 참고하자
 
 from dotenv import load_dotenv
 import streamlit as st
