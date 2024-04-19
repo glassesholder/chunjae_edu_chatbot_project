@@ -42,8 +42,8 @@ cur = conn.cursor()
 
 create_query = "CREATE TABLE chat_json (role TEXT, content TEXT);"
 
-cursor.execute(create_query)
-db.commit()
+cur.execute(create_query)
+conn.commit()
 
 def save_chat_to_database(role, content):
     cur.execute("INSERT INTO chat_json (role, content) VALUES (%s, %s)", (role, content))
