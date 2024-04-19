@@ -40,13 +40,13 @@ conn = psycopg2.connect(
 # 커서 생성
 cur = conn.cursor()
 
-create_query = "CREATE TABLE chat_json (role TEXT, content TEXT);"
+#create_query = "CREATE TABLE chat_json (role TEXT, content TEXT);"
 
-cur.execute(create_query)
-conn.commit()
+#cur.execute(create_query)
+#conn.commit()
 
 def save_chat_to_database(role, content):
-    cur.execute("INSERT INTO chat_json (role, content) VALUES (%s, %s)", (role, content))
+    cur.execute("INSERT INTO chat_json3 (role, content) VALUES (%s, %s)", (role, content))
     conn.commit()
 
 
