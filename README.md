@@ -1,5 +1,7 @@
-## CPT-BOT PROJECT
+## CPT-BOT PROJECT ( 4/8 ~ 4/26 )
 #### ChatGPT를 이용한 Python 교육 챗봇 제작
+---
+![image](https://github.com/glassesholder/chunjae_edu_chatbot_project/assets/150658909/dcfc0e4c-9102-4b39-8f37-f0e1b420980c)
 
 ---
 
