@@ -45,7 +45,7 @@ UI는 파이썬 웹 프레임 워크 streamlit을 이용하여 구성했다. 소
 
 >
 1. VSCODE를 열어서 터미널을 열어주세요.
-2. ```$ git clone --single-branch --branch main https://github.com/glassesholder/chunjae_edu_chatbot_project.git```
+2. ```$ git clone --single-branch --branch main https://github.com/glassesholder/chunjae_edu_chatbot_project.git```\n
 를 터미널에 입력해서 내려받아 주세요.
 3. (생략가능) 가상환경 설치
 ```$ python venv -m venv cpt```
