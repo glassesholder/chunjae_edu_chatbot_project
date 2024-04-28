@@ -68,12 +68,15 @@ UI는 파이썬 웹 프레임 워크 streamlit을 이용하여 구성했다. 소
 프로젝트의 목적에 맞게 1차적으로 힌트를 제공하고, 이후 사용자가 힌트를 요청하면 2차적으로 자세한 힌트를 제공합니다. 마지막으로 사용자가 정답 코드를 요청하면 질문에 알맞는 python 코드를 제공하여 단계적으로 사용자의 학습을 유도하는 모습을 확인할 수 있습니다.
 
 1. 소개 / 회원가입 / 로그인 화면
+
 ![image](https://github.com/glassesholder/chunjae_edu_chatbot_project/assets/150658909/aacb10db-7b5a-4c0f-947f-12f44dd53fc3)
 
 2. 질의/응답 화면(1)
+
 ![image](https://github.com/glassesholder/chunjae_edu_chatbot_project/assets/150658909/45c146c8-bbc9-49b1-95f3-d77fbe3b3058)
 
 3. 질의/응답 화면(2)
+
 ![image](https://github.com/glassesholder/chunjae_edu_chatbot_project/assets/150658909/7dc5229f-82a5-4e45-9c55-87c16a0e8ba7)
 
 ---
