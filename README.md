@@ -37,25 +37,32 @@ UI는 파이썬 웹 프레임 워크 streamlit을 이용하여 구성했다. 소
 1. VSCODE
 2. PYTHON (3.10.0 으로 설치 부탁드립니다.)
 환경변수에 추가하여 VSCODE에서 TERMINAL에서 사용할 수 있도록 해주세요.
-3. GIT
-4. POSTGRESQL (다른 DB로 대체 가능합니다. )
-5. DBEAVER (다른 DBMS로 대체 가능합니다.)
+4. GIT
+5. POSTGRESQL (다른 DB로 대체 가능합니다. )
+6. DBEAVER (다른 DBMS로 대체 가능합니다.)
 
 다음 단계를 거쳐주세요.
 
->
+
 1. VSCODE를 열어서 터미널을 열어주세요.
+
 2. ```$ git clone --single-branch --branch main https://github.com/glassesholder/chunjae_edu_chatbot_project.git```
 를 터미널에 입력해서 내려받아 주세요.
+
 3. (생략가능) 가상환경 설치
 ```$ python venv -m venv cpt```
 로 가상환경을 설치해서 활성화 후 사용해주세요.
+
 4. requirements.txt에 담겨있는 라이브러리를 설치해주세요.
 ```$ pip install -r requirements.txt```
+
 5. vscode는 잠시 두고, pgadmin4에 들어가서 자신의 db를 만들어주세요.(해당 과정은 자신의 여건에 맞게 AWS 또는 NCP에서 진행해도 문제가 되지 않습니다.)
+
 6. dbeaver에 들어가서 자신이 만들어놓은 db를 연결해주세요. 이제 쌓이는 데이터를 확인할 준비가 되었습니다.
+
 7. 다시 vscode terminal로 돌아와서 db에 테이블을 만들기 위한 코드를 실행해주세요.
 ```$ python create_table.py```
+
 8. 끝으로 터미널에서 챗봇 실행을 위한 cptbot_start.py 파일을 실행해주세요.
 ```$ streamlit run cptbot_start.py```
 
