@@ -18,6 +18,10 @@ As it is designed for Korean students, we kindly ask for your understanding that
 Thank you and have a nice day!💕
 
 ---
+### ✅ 결과 보고서 및 발표 자료
+> https://drive.google.com/drive/folders/1iNd7C9X0_M_AhYjLHZcrXlZ7hxVhq1R5
+
+---
 ### ✅ 요약 보고서
 >
 대형 언어 모델(LLM)인 GPT-3.5-turbo에 학생의 학습에 도움이 된다고 판단한 파이썬 관련 질의 응답 데이터셋을 학습시켰다. 그에 따라 파이썬 질문에 대해서 점진적인 질의 응답이 가능하도록 하는 코딩 튜터링 서비스 챗봇(이하 CPT봇)이 구현되기를 기대했다.
