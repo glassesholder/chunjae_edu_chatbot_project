@@ -41,6 +41,13 @@ UI는 파이썬 웹 프레임 워크 streamlit을 이용하여 구성했다. 소
 5. POSTGRESQL (다른 DB로 대체 가능합니다. )
 6. DBEAVER (다른 DBMS로 대체 가능합니다.)
 
+폴더 내 .env 파일을 생성한 뒤 아래 내용을 적어주세요.
+OPEN_API_KEY="본인의 api key"
+POSTGRES_DB="db 이름 넣어주세요"
+POSTGRES_USER="postgres"
+POSTGRES_PASSWORD="본인이 설정한 pwd 넣어주세요"
+POSTGRES_HOST="localhost"
+
 다음 단계를 거쳐주세요.
 
 
