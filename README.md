@@ -33,13 +33,12 @@ UI는 파이썬 웹 프레임 워크 streamlit을 이용하여 구성했다. 소
 
 🖐안녕하세요🖐
 다음 서비스들을 설치해주세요.
->
-1. VSCODE
-2. PYTHON (3.10.0 으로 설치 부탁드립니다.)
+> 1. VSCODE
+> 2. PYTHON (3.10.0 으로 설치 부탁드립니다.)
 환경변수에 추가하여 VSCODE에서 TERMINAL에서 사용할 수 있도록 해주세요.
-4. GIT
-5. POSTGRESQL (다른 DB로 대체 가능합니다. )
-6. DBEAVER (다른 DBMS로 대체 가능합니다.)
+> 3. GIT
+> 4. POSTGRESQL (다른 DB로 대체 가능합니다. )
+> 5. DBEAVER (다른 DBMS로 대체 가능합니다.)
 
 폴더 내 .env 파일을 생성한 뒤 아래 내용을 적어주세요. <br>
 1. OPEN_API_KEY="본인의 api key" <br>
