@@ -18,11 +18,6 @@ As it is designed for Korean students, we kindly ask for your understanding that
 Thank you and have a nice day!💕
 
 ---
-### ✅ Report
-
-[[빅데이터 6기] CPT팀 - Google Drive](https://drive.google.com/drive/folders/1iNd7C9X0_M_AhYjLHZcrXlZ7hxVhq1R5?usp=sharing)
-
----
 ### ✅ Summary
 > 대형 언어 모델(LLM)인 GPT-3.5-turbo에 학생의 학습에 도움이 된다고 판단한 파이썬 관련 질의 응답 데이터셋을 학습시켰다. 그에 따라 파이썬 질문에 대해서 점진적인 질의 응답이 가능하도록 하는 코딩 튜터링 서비스 챗봇(이하 CPT봇)이 구현되기를 기대했다.
 
@@ -122,5 +117,9 @@ CPT봇의 한계점에 기반한 우리 팀의 추가 개발 방향은 다음과
 5. CPT봇 내 “자주 묻는 질문” 항목을 생성하고 개인별 오답노트를 제작하는 등 사용자 개인별 맞춤 서비스를 제공하고자 합니다.
 
 ---
+### ✅ Report
 
+[[빅데이터 6기] CPT팀 - Google Drive](https://drive.google.com/drive/folders/1iNd7C9X0_M_AhYjLHZcrXlZ7hxVhq1R5?usp=sharing)
+
+---
 #### 우리 팀의 프로젝트에 관심을 가져주셔서 진심으로 감사합니다🎶
